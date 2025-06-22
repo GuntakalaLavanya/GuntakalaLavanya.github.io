@@ -10,7 +10,7 @@
 
 **Short-bio**: full stack developer interested in creating web applications.
 
-![lavanya's headshot](dist/assets/img/lavanyag1.jpg)
+![lavanya's headshot](docs/assets/img/lavanyag1.jpg)
 
 ## Overview
 
@@ -30,7 +30,7 @@ I used a professional Bootstrap resume template and customized it with my name, 
 
 **Bootstrap Template used** : [https://github.com/startbootstrap/startbootstrap-resume](https://github.com/startbootstrap/startbootstrap-resume)
 
-[!General Requriements](dist/assets/img/Generalrequirements.png)
+[!General Requriements](docs/assets/img/Generalrequirements.png)
 
 ### Course Page with Link (5 pts)
 
